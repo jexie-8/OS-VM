@@ -1,0 +1,24 @@
+cd
+cd /tmp
+cd /does/not/exist
+cd
+dir .
+dir /tmp
+dir /does/not/exist
+environ
+set MYVAR HelloWorld
+echo $MYVAR
+set ANOTHER_VAR 123
+environ
+echo Hello World
+echo    multiple    spaces   here
+help
+pause
+echo This is output > out.txt
+echo Appending >> out.txt
+dir . > ls_output.txt
+ls /tmp
+cat < out.txt
+sleep 3 &
+echo Background test
+quit
