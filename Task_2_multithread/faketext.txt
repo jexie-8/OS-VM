@@ -1,0 +1,169 @@
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
+
+apple banana apple orange banana apple
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox is quick and smart.
+The dog is lazy but the fox is clever.
+
+Thread one will count these words.
+Thread two will also count these words.
+Counting words is simple but merging counts is tricky.
+
+Multithreading can improve performance.
+Performance depends on workload and design.
+Design matters when performance matters.
+
+apple orange banana apple banana fruit fruit fruit
+data data structure algorithm algorithm thread thread thread
