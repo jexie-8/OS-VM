@@ -10,7 +10,7 @@ using namespace std;
 
 // Listening thread (so that the server can recieve messages at any time)
 void receive_thread_func(int client_socket) {
-    char buffer[4096]; // store the incoming data (max. 4096)
+    char buffer[4096]; // temporary storage for the incoming data (max. 4096)
     while (true) { // always listen until connetcion broken
         memset(buffer, 0, 4096); // reset the buffer memory with 0's (null) so old message doesnt appear in new message
         int bytes_received = recv(client_socket, buffer, 4096, 0); // record how many bytes were recieved from the client socket
