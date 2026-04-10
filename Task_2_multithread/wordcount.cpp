@@ -1,5 +1,7 @@
 // cd /workspaces/OS-VM/Task_2_multithread
 // ./wordcount.cpp
+// cd /workspaces/OS-VM/Task_2_multithread && git add . && git commit -m "Update wordcount.cpp" && git push origin main
+// git log --oneline
 
 #include <iostream>
 #include <fstream>

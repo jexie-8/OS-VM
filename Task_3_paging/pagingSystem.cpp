@@ -1,17 +1,17 @@
 // git commit: cd /workspaces/OS-VM/Task_3_paging && git add . && git commit -m "task 3 paging final commit" && git push origin main
+// hash commit: git log -1 --pretty=format:"%h"
 // redirect: cd /workspaces/OS-VM/Task_3_paging
 // compile: g++ pagingSystem.cpp -o pagingSystem
-// run with 2 args: ./pagingSystem 50 inputfile.txt
-// run with 3 args: ./pagingSystem 50 inputfile.txt > outputfile.txt
+// run with 2 args (error): ./pagingSystem 50 inputfile.txt
+// run with 3 args: ./pagingSystem 50 100 inputfile.txt > outputfile.txt
+// run: ./pagingSystem 50 100 inputfile.txt 
 
 #include <iostream>
 #include <vector>
 #include <fstream>
 #include <cstdint>
 #include <limits>
-
 using namespace std;
-
 
 struct Frame {
     int pagenum; 
@@ -52,7 +52,7 @@ int simulateAging(int numFrames, const vector<int>& references, int counterBits 
 
         // check if current page is already loaded
         for (auto& f : frames) {
-            // if page is not empty and page in frame is page being accessed = page exists in memory
+            // 1. if page is not empty and page in frame is page being accessed = page exists in memory
             if (f.exists && f.pagenum == page) {
                 f.referenceBit = true; // mark as referenced since last tick
                 found = true; // flag found as true (no need to load page or perform page fault)
@@ -60,6 +60,7 @@ int simulateAging(int numFrames, const vector<int>& references, int counterBits 
             }
         }
 
+        // 2. page does not exist in memory, should be loaded
         if (!found) {
             faults++;
 
